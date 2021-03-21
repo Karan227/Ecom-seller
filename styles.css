@@ -12,6 +12,16 @@
     .contact-section {
         border-radius: 45px 45px 0 0 !important;
     }
+
+    .content-table {
+  border-collapse: collapse;
+  /* margin: 25px 0; */
+  font-size: 0.9em;
+  min-width: 250px;
+  border-radius: 5px 5px 0 0;
+  overflow: hidden;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
 }
 
 @media (min-width: 576px) and (max-width: 767.98px) {
@@ -24,6 +34,15 @@
     .contact-section {
         border-radius: 25px 25px 0 0 !important;
     }
+    .content-table {
+  border-collapse: collapse;
+  /* margin: 25px 0; */
+  font-size: 0.9em;
+  min-width: 350px;
+  border-radius: 5px 5px 0 0;
+  overflow: hidden;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
 }
 
 @media (min-width: 768px) and (max-width: 991.98px) {
@@ -32,6 +51,15 @@
         top: 120px;
         left: 10%;
     }
+    .content-table {
+  border-collapse: collapse;
+  /* margin: 25px 0; */
+  font-size: 0.9em;
+  min-width: 400px;
+  border-radius: 5px 5px 0 0;
+  overflow: hidden;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
 }
 
 @media (min-width: 992px) and (max-width: 1199.98px) {
@@ -40,6 +68,15 @@
         top: 80px;
         left: 160px;
     }
+    .content-table {
+  border-collapse: collapse;
+  /* margin: 25px 0; */
+  font-size: 0.9em;
+  min-width: 400px;
+  border-radius: 5px 5px 0 0;
+  overflow: hidden;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
 }
 
 @media (min-width: 1200px) {
@@ -48,6 +85,16 @@
         top: 120px;
         left: 190px;
     }
+
+    .content-table {
+  border-collapse: collapse;
+  /* margin: 25px 0; */
+  font-size: 0.9em;
+  min-width: 380px;
+  border-radius: 5px 5px 0 0;
+  overflow: hidden;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
 }
 
 body {
